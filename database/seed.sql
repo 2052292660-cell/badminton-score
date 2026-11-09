@@ -1,7 +1,7 @@
 INSERT INTO badminton_private.teams (id,players) VALUES
 (1,ARRAY['朱雨乐','肖云凯']),
 (2,ARRAY['宋远见','王永盛']),
-(3,ARRAY['蔡志祥','李俊豪']),
+(3,ARRAY['察志祥','李俊豪']),
 (4,ARRAY['孔子涵','郑昌盛']),
 (5,ARRAY['吴鹏旭','李雨航']),
 (6,ARRAY['张俊涵','杨锦南']),
